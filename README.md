@@ -37,7 +37,7 @@ already audited, and that has special functions such as: staking rewards,
 percentages to burn tokens for transactions this optional by voting, and
 other functions more. We have successfully completed our swap.
 For all that we have learned in the way of the mistakes made, we are now:
-EXMR FOUNDATION NETWORK (EXMR FDN)
+# EXMR FOUNDATION NETWORK (EXMR FDN)
 
 We are a laboratory of dApps and Projects to continue promoting the crypto
 world our main objective, is to integrate a large number of developers
@@ -73,4 +73,5 @@ Our IEO is being executed by P2PB2B here is the link:
 https://p2pb2b.io/token-sale/EXMR/2
 We hope you get closer to us and that together we can perform great and
 important actions to improve blockchain technology.
-EXMR FOUNDATION NETWORK TEAM
+
+# EXMR FOUNDATION NETWORK TEAM
